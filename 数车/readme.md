@@ -2,8 +2,8 @@
 ## 数车模块  
 
 ![1](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image1.jpg)
-![2](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image2.jpg)
-![3](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image3.jpg)
+![2](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image2.png)
+![3](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image3.png)
 ![4](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image4.jpg)
 ![5](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image5.jpg)
 ![6](https://github.com/gnixoag/hunanshengshukongjinengchoucha/blob/master/数车/image6.jpg)
